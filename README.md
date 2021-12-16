@@ -119,6 +119,10 @@ Exemple :
 
 **Editez ici**
 
+Édition : commit 1
+Édition : commit 2
+Édition : commit 3
+
 # Remonter dans le temps pour trouver un "bug"
 
 - [X] décochez cette case et commit : "le bug"
