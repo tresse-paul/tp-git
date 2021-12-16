@@ -149,7 +149,7 @@ Exemple :
 
 Certaines actions ne peuvent être faite s'il existe des changements "non commités".
 
-- [ ] cochez cette case **sans faire de commit !**
+- [X] cochez cette case **sans faire de commit !**
 - Essayez de changez de branche :
   - Vous ne pouvez pas
   - Choisir _"Faire un stash et extraire"_
